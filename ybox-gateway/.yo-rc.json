@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "gateway",
+    "packageName": "com.yjiky.gateway",
+    "packageFolder": "com/yjiky/gateway",
+    "authenticationType": "oauth2",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "no",
+    "useSass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "9307c08170edcb1ece6c0fd993cf12e20cadc607",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}

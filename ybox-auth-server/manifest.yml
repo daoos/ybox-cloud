@@ -1,0 +1,7 @@
+---
+applications:
+- name: ybox-auth-server
+  host: ybox-auth-server-${random-word}
+  memory: 512M
+  instances: 1
+  path: target/ybox-auth-server-0.0.1-SNAPSHOT.jar

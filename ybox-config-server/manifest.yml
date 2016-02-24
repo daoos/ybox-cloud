@@ -1,0 +1,7 @@
+---
+applications:
+- name: ybox-config-server
+  host: ybox-config-server-${random-word}
+  memory: 512M
+  instances: 1
+  path: target/ybox-config-server-0.0.1-SNAPSHOT.jar

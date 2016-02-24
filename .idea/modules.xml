@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ybox-gateway/gateway.iml" filepath="$PROJECT_DIR$/ybox-gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ybox-auth-server/ybox-auth-server.iml" filepath="$PROJECT_DIR$/ybox-auth-server/ybox-auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ybox-cloud.iml" filepath="$PROJECT_DIR$/ybox-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ybox-config-server/ybox-config-server.iml" filepath="$PROJECT_DIR$/ybox-config-server/ybox-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ybox-eureka/ybox-eureka.iml" filepath="$PROJECT_DIR$/ybox-eureka/ybox-eureka.iml" />
+    </modules>
+  </component>
+</project>

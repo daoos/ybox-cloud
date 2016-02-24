@@ -1,0 +1,7 @@
+---
+applications:
+- name: ybox-eureka
+  host: ybox-eureka-${random-word}
+  memory: 512M
+  instances: 1
+  path: target/ybox-eureka-0.0.1-SNAPSHOT.jar
